@@ -19,3 +19,7 @@ An app that show the most popular TVShow on air! Developed for study only, using
 
 - [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
 - [Concurrency in Swift: Using the new async/await syntax](https://blog.logrocket.com/concurrency-swift-async-await-syntax/)
+
+## Demo 
+
+<img src= "https://github.com/alexandrethadeu/TVShowApp/blob/main/Demo/AppDemo.gif" width="375" height="812">
