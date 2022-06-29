@@ -1,0 +1,69 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+            "first_air_date": "2019-07-25",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "id": 76479,
+            "name": "The Boys",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Boys",
+            "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "popularity": 3476.228,
+            "poster_path": "/stTEycfG9928HYGEISBFaG1ngjM.jpg",
+            "vote_average": 8.4,
+            "vote_count": 6299
+        },
+        {
+            "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+            "first_air_date": "2022-06-08",
+            "genre_ids": [
+                10765,
+                10759,
+                35
+            ],
+            "id": 92782,
+            "name": "Ms. Marvel",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Ms. Marvel",
+            "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+            "popularity": 2555.27,
+            "poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
+            "vote_average": 7.7,
+            "vote_count": 190
+        },
+        {
+            "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "first_air_date": "2016-07-15",
+            "genre_ids": [
+                18,
+                10765,
+                9648
+            ],
+            "id": 66732,
+            "name": "Stranger Things",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Stranger Things",
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "popularity": 2427.378,
+            "poster_path": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+            "vote_average": 8.6,
+            "vote_count": 11244
+        }
+    ],
+    "total_pages": 6724,
+    "total_results": 134466
+}
