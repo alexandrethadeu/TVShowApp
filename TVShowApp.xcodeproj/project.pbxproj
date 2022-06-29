@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EF1E26CA286C5D6500A0145A /* AppDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF1E26C9286C5D6500A0145A /* AppDemo.gif */; };
 		EF368267277D46AF00B0DCAC /* TVShowAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF368266277D46AF00B0DCAC /* TVShowAppApp.swift */; };
 		EF368269277D46AF00B0DCAC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF368268277D46AF00B0DCAC /* ContentView.swift */; };
 		EF36826B277D46BA00B0DCAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF36826A277D46BA00B0DCAC /* Assets.xcassets */; };
@@ -58,7 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EF1E26C9286C5D6500A0145A /* AppDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = AppDemo.gif; path = ../../../../../Desktop/AppDemo.gif; sourceTree = "<group>"; };
+		EF1E26CB286C5F5000A0145A /* AppDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = AppDemo.gif; sourceTree = "<group>"; };
 		EF368263277D46AF00B0DCAC /* TVShowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TVShowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF368266277D46AF00B0DCAC /* TVShowAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVShowAppApp.swift; sourceTree = "<group>"; };
 		EF368268277D46AF00B0DCAC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,7 +121,7 @@
 		EF1E26C6286C5D4900A0145A /* Demo */ = {
 			isa = PBXGroup;
 			children = (
-				EF1E26C9286C5D6500A0145A /* AppDemo.gif */,
+				EF1E26CB286C5F5000A0145A /* AppDemo.gif */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -130,6 +129,7 @@
 		EF36825A277D46AF00B0DCAC = {
 			isa = PBXGroup;
 			children = (
+				EF1E26C6286C5D4900A0145A /* Demo */,
 				EF368265277D46AF00B0DCAC /* TVShowApp */,
 				EF368276277D46BB00B0DCAC /* TVShowAppTests */,
 				EF368280277D46BB00B0DCAC /* TVShowAppUITests */,
@@ -150,7 +150,6 @@
 		EF368265277D46AF00B0DCAC /* TVShowApp */ = {
 			isa = PBXGroup;
 			children = (
-				EF1E26C6286C5D4900A0145A /* Demo */,
 				EF3682A5277D4A4800B0DCAC /* ViewModel */,
 				EF368294277D470100B0DCAC /* Utils */,
 				EF368293277D46FB00B0DCAC /* View */,
@@ -376,7 +375,6 @@
 			files = (
 				EF36826E277D46BA00B0DCAC /* Preview Assets.xcassets in Resources */,
 				EF36826B277D46BA00B0DCAC /* Assets.xcassets in Resources */,
-				EF1E26CA286C5D6500A0145A /* AppDemo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
